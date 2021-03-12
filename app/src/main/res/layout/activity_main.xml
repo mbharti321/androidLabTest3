@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/cardview_shadow_start_color"
+    android:background="@drawable/p"
     tools:context=".MainActivity">
 
     <TextView
@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:text="IT Conference"
-        android:textColor="#43174A"
+        android:textColor="#FFFF"
         android:textSize="30dp"
         android:textStyle="bold" />
 
@@ -41,7 +41,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_gravity="center_vertical|center_horizontal"
-                android:background="#F3B418"
+                android:background="#F14F4F"
                 android:gravity="center"
                 android:orientation="vertical">
 
@@ -58,6 +58,7 @@
                     android:layout_marginTop="10dp"
                     android:background="@android:color/white"
                     android:text="Hill Top"
+
                     android:textStyle="bold" />
             </LinearLayout>
         </androidx.cardview.widget.CardView>
@@ -115,7 +116,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_gravity="center_vertical|center_horizontal"
-                android:background="#D66793"
+                android:background="#6B0981"
                 android:gravity="center"
                 android:orientation="vertical">
 
@@ -152,7 +153,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_gravity="center_vertical|center_horizontal"
-                android:background="#81B1DF"
+                android:background="#FF5722"
                 android:gravity="center"
                 android:orientation="vertical">
 
